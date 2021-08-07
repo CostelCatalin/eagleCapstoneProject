@@ -1,0 +1,12 @@
+pageObjectRepository\ComponentsPageObject.class
+pageObjectRepository\DesktopsPageObject.class
+pageObjectRepository\LaptopsNoteBooksPageObject.class
+pageObjectRepository\PhonesPDAsPageObject.class
+pageObjectRepository\RetailPageObject.class
+pageObjectRepository\HomePageObject.class
+core\Base.class
+utilites\WebDriverUtility.class
+pageObjectRepository\TablestPageObject.class
+pageObjectRepository\IphooneObject.class
+pageObjectRepository\Mp3PlayersPageObject.class
+pageObjectRepository\SoftwarePageObject.class

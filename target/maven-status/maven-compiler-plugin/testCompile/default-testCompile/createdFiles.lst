@@ -1,0 +1,8 @@
+stepDefinitions\Descktops.class
+stepDefinitions\Initializer.class
+stepDefinitions\iphoneSearching.class
+runner\newRunner.class
+stepDefinitions\LaptopsAndNoteBooks.class
+runner\TestRunner.class
+stepDefinitions\AccountInformationStepDefinition.class
+stepDefinitions\HomePage.class
